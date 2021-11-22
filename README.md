@@ -1,4 +1,4 @@
-# AIND-Game-playing-agent
+# AI Game-Playing agent
 ## Project Scope
 - Adversairal Search
 - MiniMax Algorithm
